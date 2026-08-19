@@ -1,0 +1,68 @@
+{
+  "id": "lucia_bessa",
+  "nome": "Lúcia Bessa",
+  "descricao": "Ativista contra a violência contra as mulheres.",
+  "tom": "Forte na defesa da mulher, claro, acolhedor e educativo, sem linguagem agressiva.",
+  "cores": [
+    "#8a25c5",
+    "#f9f9f9",
+    "#4f0070"
+  ],
+  "fontes_preferidas": [
+    "DM Sans",
+    "Amazin Slab",
+    "Poppins"
+  ],
+  "redes": [
+    "Instagram",
+    "Facebook",
+    "X",
+    "WhatsApp",
+    "Story",
+    "Carrossel Instagram"
+  ],
+  "temas": [
+    "violência contra a mulher",
+    "violência doméstica",
+    "violência psicológica",
+    "violência patrimonial",
+    "feminicídio",
+    "Lei Maria da Penha",
+    "direitos das mulheres",
+    "proteção às mulheres",
+    "campanhas de conscientização",
+    "datas relacionadas aos direitos das mulheres"
+  ],
+  "logos": [
+    {
+      "nome": "Lúcia Bessa",
+      "arquivo": "assets/lucia_bessa/logos/lucia_bessa.png"
+    },
+    {
+      "nome": "Instituto Viva Mulher",
+      "arquivo": "assets/lucia_bessa/logos/instituto_viva_mulher.png"
+    },
+    {
+      "nome": "Fórum de Mulheres do Mercosul - DF",
+      "arquivo": "assets/lucia_bessa/logos/forum_mulheres_mercosul_df.png"
+    }
+  ],
+  "fotos": [
+    "assets/lucia_bessa/fotos/lucia_01.png",
+    "assets/lucia_bessa/fotos/lucia_02.png",
+    "assets/lucia_bessa/fotos/lucia_03.png",
+    "assets/lucia_bessa/fotos/lucia_04.png",
+    "assets/lucia_bessa/fotos/lucia_05.png"
+  ],
+  "referencias": [
+    "assets/lucia_bessa/referencias/agosto_lilas_referencia.png"
+  ],
+  "regras_visuais": [
+    "Priorizar composição limpa e leitura rápida.",
+    "Usar roxo como cor dominante.",
+    "Permitir cores complementares em campanhas especiais.",
+    "Dar destaque tipográfico para a mensagem principal.",
+    "Logos devem ficar agrupadas e não competir com a mensagem.",
+    "Quando houver foto da Lúcia, preservar a fotografia original; não recriar o rosto com IA."
+  ]
+}
